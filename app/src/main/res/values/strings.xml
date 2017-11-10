@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AnrTest</string>
+    <string name="screen_height">屏幕高度为%1$dpx</string>
+    <string name="screen_width">屏幕宽度为%1$dpx</string>
+    <string name="title_activity_main2">Main2Activity</string>
+</resources>
